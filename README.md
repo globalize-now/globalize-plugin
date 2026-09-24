@@ -1,5 +1,7 @@
 # globalize.now plugin
 
+[![smithery badge](https://smithery.ai/badge/globalize-now/globalize)](https://smithery.ai/servers/globalize-now/globalize)
+
 Localization infrastructure for React, Next.js and Vue apps, usable from your editor or agent.
 
 Connect this plugin and you can run your localization without leaving your workflow: list projects and their target languages, add or remove languages, submit locale files for translation and pull the results back, keep glossaries and per-language style guides consistent, and connect a GitHub repository so translations land in your repo as locale files.
