@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "globalize": {
+      "url": "https://api.globalize.now/mcp"
+    }
+  }
+}

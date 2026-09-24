@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "globalize-now",
+  "version": "1.0.0",
+  "description": "Localize your app from your editor: manage projects and target languages, translate locale files, keep glossaries and style guides consistent, and sync translations to your GitHub repo.",
+  "author": {
+    "name": "globalize.now SIA",
+    "email": "support@globalize.now"
+  },
+  "homepage": "https://globalize.now/en/developers/",
+  "repository": "https://github.com/globalize-now/globalize-plugin",
+  "license": "MIT",
+  "keywords": ["i18n", "l10n", "localization", "translation", "react", "nextjs", "vue", "locale-files"],
+  "logo": "assets/logo.svg"
+}
